@@ -2,7 +2,7 @@
 """
 训练数据集类。
 
-Author: pankeyu02
+Author: pankeyu
 Date: 2022/05/18
 """
 import math
