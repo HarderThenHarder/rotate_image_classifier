@@ -10,23 +10,21 @@ python inference.py
 
 得到对测试图片的角度预测：
 
-<img src=''>
-
 <table>
 <tr>
-<td><img src=img_examples/angle_136.png border=0></td>
-<td><img src=img_examples/angle_323.png border=0></td>
-<td><img src=img_examples/angle_287.png border=0></td>
+<td><img src="img_examples/angle_136.png" border=0></td>
+<td><img src="img_examples/angle_323.png" border=0></td>
+<td><img src="img_examples/angle_287.png" border=0></td>
 </tr>
 <tr>
-<td><img src=img_examples/angle_236.png border=0></td>
-<td><img src=img_examples/angle_92.png border=0></td>
-<td><img src=img_examples/angle_234.png border=0></td>
+<td><img src="img_examples/angle_236.png" border=0></td>
+<td><img src="img_examples/angle_92.png" border=0></td>
+<td><img src="img_examples/angle_234.png" border=0></td>
 </tr>
 <tr>
-<td><img src=img_examples/angle_202.png border=0></td>
-<td><img src=img_examples/angle_349.png border=0></td>
-<td><img src=img_examples/angle_177.png border=0></td>
+<td><img src="img_examples/angle_202.png" border=0></td>
+<td><img src="img_examples/angle_349.png" border=0></td>
+<td><img src="img_examples/angle_177.png" border=0></td>
 </tr>
 </table>
 
